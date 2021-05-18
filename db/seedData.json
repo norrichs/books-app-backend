@@ -1,0 +1,68 @@
+[
+	{
+		"author": "James S.A. Corey",
+		"title": "Leviathan Wakes",
+		"date": "June 2011",
+		"cover": "https://static.wikia.nocookie.net/expanse/images/0/08/Leviathan_Wakes.jpg/revision/latest/scale-to-width-down/973?cb=20131011124313",
+		"series": {
+			"serial": true,
+			"sequence": 1,
+			"name": "The Expanse"
+		}
+	  },
+	  {
+		"author": "Brandon Sanderson and Robert Jordan",
+		"title": "Tower of Midnight",
+		"date": "November 2010",
+		"cover": "http://4.bp.blogspot.com/_2zSdrUBYTt8/S_w_767S5-I/AAAAAAAAB-4/SrfMRKNLhZA/s1600/TowersofMidnight_us_hardcover.jpg",
+		"series": {
+			"serial": true,
+			"sequence": 13,
+			"name": "The Wheel of Time"
+		}
+	  },
+	  {
+		"author": "Iain M. Banks",
+		"title": "Use of Weapons",
+		"date": "April 1992",
+		"cover": "https://c.booko.info/covers/4f074fc40acd8b87/v/600.jpeg",
+		"series": {
+			"serial": true,
+			"sequence": 3,
+			"name": "The Culture"
+		}
+	  },
+	  {
+		"author": "Iain M. Banks",
+		"title": "Consider Phlebas",
+		"date": "1987",
+		"cover": "https://www.salwowski.com/Gallery-normal/Salwowski_Banks_ConsPhlebas.jpg",
+		"series": {
+			"serial": true,
+			"sequence": 1,
+			"name": "The Culture"
+		}
+	  },
+	  {
+		"author": "James S.A. Corey",
+		"title": "Caliban's War",
+		"date": "June 2012",
+		"cover": "https://static.wikia.nocookie.net/expanse/images/3/34/Caliban%27s_War.jpg/revision/latest/scale-to-width-down/973?cb=20131011124204",
+		"series": {
+			"serial": true,
+			"sequence": 2,
+			"name": "The Expanse"
+		}
+	  },
+	  {
+		"author": "Kim Stanley Robinson",
+		"title": "The Years of Rice and Salt",
+		"date": "March 2002",
+		"cover": "https://libcom.org/files/imagecache/article/images/library/Years%20of%20Rice%20and%20Salt_595.jpg",
+		"series": {
+			"serial": false,
+			"sequence": "",
+			"name": ""
+		}
+	  }
+]
