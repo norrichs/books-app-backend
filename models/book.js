@@ -7,11 +7,11 @@ const bookSchema = new Schema(
     title: String,
     date: Date,
 	cover: String,
-	series: {
-		serial: Boolean,
-		sequence: Number,
-		name: String
-	}
+	// series: {
+	// 	serial: Boolean,
+	// 	sequence: Number,
+	// 	name: String
+	// }
   },
   { timestamps: true }
 );
