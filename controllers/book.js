@@ -3,7 +3,7 @@ const { Router } = require("express");
 const router = Router();
 
 // get Seed Data
-const bookSeed = require('../db/seedData.json')
+const bookSeed = require('../db/seedData.json') 
 // console.log(bookSeed)
 
 //index route
